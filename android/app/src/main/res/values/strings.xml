@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Babinsa</string>
+    <string name="api_key" translatable="false">AIzaSyDxIr7LhjukakfuaZfANZBDo1AtSdfHEvU</string>
+    <string name="selection_media">Pilih media</string>
+</resources>
